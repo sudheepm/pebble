@@ -1,0 +1,127 @@
+{
+  "uuid": "320538e3-5680-484b-8de7-f6efe9930f25",
+  "shortName": "Mal Watch 1",
+  "longName": "Malayalam Date Watch 1",
+  "companyName": "Sudheep",
+  "versionCode": 1,
+  "versionLabel": "1.0.1",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_ROBOTO_CONDENSED_21",
+        "file": "fonts/Roboto-Condensed.ttf"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_CLOUD",
+        "file": "images/cloud.png"
+      },
+      {
+        "type": "png",
+        "name": "SUN",
+        "file": "images/SUN.png"
+      },
+      {
+        "type": "png",
+        "name": "MON",
+        "file": "images/MON.png"
+      },
+      {
+        "type": "png",
+        "name": "TUE",
+        "file": "images/TUE.png"
+      },
+      {
+        "type": "png",
+        "name": "WED",
+        "file": "images/WED.png"
+      },
+      {
+        "type": "png",
+        "name": "THU",
+        "file": "images/THU.png"
+      },
+      {
+        "type": "png",
+        "name": "FRI",
+        "file": "images/FRI.png"
+      },
+      {
+        "type": "png",
+        "name": "SAT",
+        "file": "images/SAT.png"
+      },
+      {
+        "type": "png",
+        "name": "01",
+        "file": "images/01.png"
+      },
+      {
+        "type": "png",
+        "name": "02",
+        "file": "images/02.png"
+      },
+      {
+        "type": "png",
+        "name": "03",
+        "file": "images/03.png"
+      },
+      {
+        "type": "png",
+        "name": "04",
+        "file": "images/04.png"
+      },
+      {
+        "type": "png",
+        "name": "05",
+        "file": "images/05.png"
+      },
+      {
+        "type": "png",
+        "name": "06",
+        "file": "images/06.png"
+      },
+      {
+        "type": "png",
+        "name": "07",
+        "file": "images/07.png"
+      },
+      {
+        "type": "png",
+        "name": "08",
+        "file": "images/08.png"
+      },
+      {
+        "type": "png",
+        "name": "09",
+        "file": "images/09.png"
+      },
+      {
+        "type": "png",
+        "name": "10",
+        "file": "images/10.png"
+      },
+      {
+        "type": "png",
+        "name": "11",
+        "file": "images/11.png"
+      },
+      {
+        "type": "png",
+        "name": "12",
+        "file": "images/12.png"
+      },
+      {
+        "characterRegex": "[:0-9]",
+        "type": "font",
+        "name": "FONT_ROBOTO_BOLD_SUBSET_49",
+        "file": "fonts/Roboto-Bold.ttf"
+      }
+    ]
+  }
+}
